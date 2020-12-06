@@ -1,2 +1,3 @@
 # Task-2
-Video Player
+Video Player and Video Segmentation
+
